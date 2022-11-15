@@ -34,6 +34,7 @@
 ### About
 - What feaste is for and how it works
 - Links to sign up and log in
+![image](https://user-images.githubusercontent.com/59975213/201964913-a09dbc22-940e-49ec-b312-7fc7e8b6172a.png)
 
 ### Login
 - Login user
