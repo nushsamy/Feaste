@@ -28,3 +28,28 @@
 - Items can be added, removed, or adjusted
 - Adjustments included amount adjustments and name adjustments
 - BONUS: Be able to convert amounts into finite numbers Ex. 300g of onions is 2 medium sized onions
+
+## Pages
+
+### About
+- What feaste is for and how it works
+- Links to sign up and log in
+
+### Login
+- Login user
+
+### Signup
+- Create a new account
+
+### Home
+- Dashboard for user
+- Displays weekly calendar
+- Link to view recipes
+- Link to grocery list
+
+### Recipes
+- View all recipes
+- Edit a recipe
+- Add a recipe
+- Remove a recipe
+
