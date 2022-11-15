@@ -38,19 +38,24 @@
 
 ### Login
 - Login user
+![image](https://user-images.githubusercontent.com/59975213/201965060-715484cf-88df-4800-96ba-bdcbf7f3ecb7.png)
 
 ### Signup
 - Create a new account
+![image](https://user-images.githubusercontent.com/59975213/201965153-d74c7a00-672a-4b78-a242-197d2be3f2fd.png)
 
 ### Home
 - Dashboard for user
 - Displays weekly calendar
 - Link to view recipes
 - Link to grocery list
+![image](https://user-images.githubusercontent.com/59975213/201965329-f3907cb8-ae7b-43a0-9e34-034253584ef2.png)
 
 ### Recipes
 - View all recipes
 - Edit a recipe
 - Add a recipe
 - Remove a recipe
-
+![image](https://user-images.githubusercontent.com/59975213/201965427-405a20aa-eecd-45c7-82b8-16ddea05a687.png)
+![image](https://user-images.githubusercontent.com/59975213/201965507-a30a9019-1229-4f42-a4b6-49bf638940ff.png)
+![image](https://user-images.githubusercontent.com/59975213/201965585-7d1add89-6f98-4a19-b70b-4a49371da489.png)
